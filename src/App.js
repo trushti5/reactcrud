@@ -168,9 +168,10 @@ function App() {
             </div>
             <div className='iu'>
               <button type='button' className='ty'>Submit</button>
+              <div> <h1>trushti</h1></div>
             </div>
           </div>
-          <h1>trushti</h1></div>
+        </div>
 
       </div>
 
